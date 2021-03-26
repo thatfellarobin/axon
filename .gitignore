@@ -23,3 +23,15 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+# Project-specific files
+*.docx
+*.svg
+*.dxf
+*.dwg
+*.json
+*.png
+*/fp-info-cache
+*/fp-lib-table
+*/sym-lib-table
+*bak
