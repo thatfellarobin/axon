@@ -1,7 +1,4 @@
 (fp_lib_table
-  (lib (name personal)(type KiCad)(uri "C:/Users/Robin/OneDrive/Side Projects - Games - Fitness/Keyboard/kicad_lib/robin_personal.pretty")(options "")(descr ""))
-  (lib (name keebio-parts)(type KiCad)(uri "C:/Users/Robin/OneDrive/Side Projects - Games - Fitness/Keyboard/kicad_lib/Keebio-Parts.pretty")(options "")(descr ""))
-  (lib (name keyboard-parts)(type KiCad)(uri "C:/Users/Robin/OneDrive/Side Projects - Games - Fitness/Keyboard/kicad_lib/keyboard_parts.pretty")(options "")(descr ""))
-  (lib (name keyswitches)(type KiCad)(uri "C:/Users/Robin/OneDrive/Side Projects - Games - Fitness/Keyboard/kicad_lib/keyswitches.pretty")(options "")(descr ""))
-  (lib (name type-c)(type KiCad)(uri "C:/Users/Robin/OneDrive/Side Projects - Games - Fitness/Keyboard/kicad_lib/Type-C.pretty")(options "")(descr ""))
+  (lib (name personal)(type KiCad)(uri "C:/Users/Robin/OneDrive/Side Projects - Games - Fitness/Keyboard/axon/lib/robin_personal.pretty")(options "")(descr ""))
+  (lib (name keyswitches)(type KiCad)(uri "C:/Users/Robin/OneDrive/Side Projects - Games - Fitness/Keyboard/axon/lib/keyboard_parts.pretty")(options "")(descr ""))
 )
