@@ -26,6 +26,7 @@ _autosave-*
 
 # Project-specific files
 *.docx
+*.step
 *.svg
 *.dxf
 *.dwg
