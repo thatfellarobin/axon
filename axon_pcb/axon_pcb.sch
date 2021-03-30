@@ -928,7 +928,7 @@ U 1 1 606EAAB0
 P 8000 5150
 F 0 "J2" H 8050 5467 50  0000 C CNN
 F 1 "AVR_ISP Header" H 8050 5376 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" H 8000 5150 50  0001 C CNN
+F 2 "personal:PinHeader_2x03_P2.54mm_Vertical" H 8000 5150 50  0001 C CNN
 F 3 "~" H 8000 5150 50  0001 C CNN
 	1    8000 5150
 	1    0    0    -1  
