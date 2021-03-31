@@ -8,9 +8,11 @@ Axon runs on an Atmega328p using VUSB and QMK.
 ### Images
 
 **Layout:**
+
 ![Layout](img/axon_layout.png)
 
 **PCB EDA Screenshot:**
+
 ![PCB EDA Screenshot](img/axon_pcb_eda.png)
 
 ### Component Libraries
