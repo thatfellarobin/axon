@@ -1,4 +1,4 @@
-19227213649730661
+19123903389147545
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83026,626 +83026,136 @@ varistor SIOV
 0
 2
 2
-keyswitches
-4P4C
-http://www.assmann.us/specs/A-2004-3-4-LP-N-R_REV00.pdf
-4P4C, RJ
-0
-6
-6
-keyswitches
-ALPS_PLATE_SPRING
-http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
-ALPS, keyboard switch, SKCM, SKCL
-0
-4
-3
-keyswitches
-ALPS_PLATE_SPRING_CUTOUT
-
-
-0
-0
-0
-keyswitches
-ALPS_SKCM
-http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
-ALPS, keyboard switch, SKCM, SKCL
+keyswitches-daprice
+Kailh_socket_MX
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
 0
 2
 2
-keyswitches
-ALPS_SKCM_CUTOUT
-
-
-0
-0
-0
-keyswitches
-ALPS_SKCM_CUTOUT_STAB256
-
-
-0
-0
-0
-keyswitches
-ALPS_SKCM_CUTOUT_STAB406
-
-
-0
-0
-0
-keyswitches
-ALPS_SKCM_CUTOUT_STAB883
-
-
-0
-0
-0
-keyswitches
-ALPS_SKCM_LED
-http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
-ALPS, keyboard switch, SKCM, SKCL
+keyswitches-daprice
+Kailh_socket_MX_optional
+MX-style keyswitch with support for optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
 0
 4
-4
-keyswitches
-ALPS_SKCM_reverse_pad
-http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
-ALPS, keyboard switch, SKCM, SKCL
-0
 2
-2
-keyswitches
-AVR_ICSP_3x2
-Double rangee de contacts 2 x 4 pins
-CONN
-0
-6
-6
-keyswitches
-C_1608
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keyswitches
-C_1608_rev2
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keyswitches
-C_3216
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-keyswitches
-C_3216_rev2
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-keyswitches
-C_3225
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-keyswitches
-C_3528
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-keyswitches
-C_3528_pol
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-keyswitches
-C_6032
-SMD, 3216, 1210, C
-SMD, 3216, 1210, C
-0
-2
-2
-keyswitches
-DSUB9P
-
-
-0
-11
-10
-keyswitches
-D_SC79
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keyswitches
-D_SOD123
-
-
-0
-2
-2
-keyswitches
-D_SOD123W_hand
-
-
-0
-2
-2
-keyswitches
-D_SOD123_axial
-
-
-0
-6
-2
-keyswitches
-D_SOD123_hand
-
-
-0
-2
-2
-keyswitches
-D_axial
-
-
-0
-2
-2
-keyswitches
-FA-238
-
-
-0
-4
-3
-keyswitches
-HC-49_SMT
-
-
-0
-2
-2
-keyswitches
-HHKB_JP_HRS_DF14_15P
-http://www.mouser.com/ds/2/185/e53800017-12550.pdf
-HHKB JP, HRS, Hirose, DF14, 15P
-0
-17
-17
-keyswitches
-HHKB_PRO2_ZH13
-http://www.jst-mfg.com/product/pdf/eng/eZH.pdf
-HHKB pro2, JST, ZH
-0
-15
-15
-keyswitches
-HHKB_PRO2_ZH13_TH
-http://www.jst-mfg.com/product/pdf/eng/eZH.pdf
-JST ZH 13 HHKB pro2
-0
-13
-13
-keyswitches
-HHKB_PRO_PH15
-http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
-JST PH 15 HHKB PRO
-0
-15
-15
-keyswitches
-HOLE_M2.6
-
-
-0
-1
-1
-keyswitches
-HOLE_M3
-
-
-0
-1
-1
-keyswitches
-HRS_DF14_20P
-http://www.mouser.com/ds/2/185/e53800017-12550.pdf
-HHKB JP, HRS, Hirose, DF14, 15P
-0
-22
-22
-keyswitches
-JST_PH2_SMT
-http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
-JST, PH, Lipo, battery
-0
-4
-3
-keyswitches
-JST_PH2_SMT_TH
-http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
-JST, PH, Lipo, battery
-0
-6
-3
-keyswitches
-JST_PH2_TH
-
-JST, PH2, Lipo
-0
-2
-2
-keyswitches
-LED_0805
-LED 0805 smd package
-LED 0805 SMD
-0
-2
-2
-keyswitches
-LED_2012_HSOL
-LED 0805 smd package
-LED 0805 SMD
-0
-2
-2
-keyswitches
-LED_3020_REFLOW
-LED 0805 smd package
-LED 0805 SMD
-0
-2
-2
-keyswitches
-LED_3025_DUAL
-
-
-0
-4
-4
-keyswitches
-LED_TH
-LED 3mm - Lead pitch 100mil (2,54mm)
-LED led 3mm 3MM 100mil 2,54mm
-0
-2
-2
-keyswitches
-LED_TH_BIVAR
-LED 3mm - Lead pitch 100mil (2,54mm)
-LED led 3mm 3MM 100mil 2,54mm
-0
-2
-2
-keyswitches
-LTC4054
-
-Lipo charger
-0
-5
-5
-keyswitches
-L_6x6MM
-
-
-0
-2
-2
-keyswitches
-L_7x7MM
-
-
-0
-2
-2
-keyswitches
-MINI_DIN_8
-
-
-0
-11
-9
-keyswitches
-MOS_FET_SOT23-3_HSOL
-SOT23
-
-0
-3
-3
-keyswitches
-PIN_1
-
-CONN pin 1 circle
-0
-1
-1
-keyswitches
-PIN_1_SQUARE
-
-CONN pin 1 square
-0
-1
-1
-keyswitches
-PPTC_nano
-
-
-0
-2
-2
-keyswitches
-PTC_3225
-
-
-0
-2
-2
-keyswitches
-Poker_oval_hole
-
-
-0
-1
-0
-keyswitches
-Poker_side_edge_long
-
-
-0
-1
-0
-keyswitches
-QFP32
-
-
-0
-32
-32
-keyswitches
-QFP32_reflow
-http://www.atmel.com/images/atmel-8826-seeprom-pcb-mounting-guidelines-surface-mount-packages-applicationnote.pdf
-
-0
-32
-32
-keyswitches
-QFP44
-
-
-0
-44
-44
-keyswitches
-QFP44_reflow
-http://www.atmel.com/images/atmel-8826-seeprom-pcb-mounting-guidelines-surface-mount-packages-applicationnote.pdf
-
-0
-44
-44
-keyswitches
-RN42
-
-
-0
-32
-32
-keyswitches
-R_1608
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keyswitches
-R_1608_NOGUIDE
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keyswitches
-R_1608_rev2
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keyswitches
-R_2012
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-keyswitches
-SLP3-200-100-F
-
-
-0
-0
-0
-keyswitches
-SM_3216_POL
-
-
-0
-2
-2
-keyswitches
-SOLDER_JUMPER_2
-
-solder jumper bridge configuration
-0
-2
-2
-keyswitches
-SOLDER_JUMPER_2_WIRED
-
-solder jumper bridge configuration
-0
-3
-1
-keyswitches
-SOLDER_JUMPER_3
-
-solder jumper bridge configuration
-0
-3
-3
-keyswitches
-SOT23-3_HSOL
-SOT23
-
-0
-3
-3
-keyswitches
-SOT23-5_HSOL
-SOT23
-
-0
-5
-5
-keyswitches
-SOT23-6_HSOL
-SOT23
-
-0
-6
-6
-keyswitches
-SW_ALPS_SKRP
-
-
+keyswitches-daprice
+Kailh_socket_MX_optional_platemount
+MX-style keyswitch with support for optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
 0
 4
 2
-keyswitches
-SW_ALPS_SKSG
-
-
-0
-6
-4
-keyswitches
-SW_ALPS_SSAA
-
-
+keyswitches-daprice
+Kailh_socket_MX_optional_reversible
+MX-style keyswitch with support for reversible optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
 0
 8
-8
-keyswitches
-SW_MINI_SLIDE
-
-
-0
-6
-6
-keyswitches
-SW_TACT_TH_HORIZ
-http://www.alps.com/products/WebObjects/catalog.woa/E/HTML/Tact/SnapIn/SKHH/SKHHLMA010.html
-ALPS SKHH tactile switch
-0
-4
-4
-keyswitches
-SW_TACT_TH_HORIZ_LOW
-http://www.alps.com/products/WebObjects/catalog.woa/E/HTML/Tact/SnapIn/SKHL/SKHLLAA010.html
-ALPS SKHLL low tactile switch
-0
-4
-4
-keyswitches
-USB_A
-
-
-0
-6
-5
-keyswitches
-USB_A_PLUG
-
-
+2
+keyswitches-daprice
+Kailh_socket_MX_optional_reversible_platemount
+MX-style keyswitch with support for reversible optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
 0
 8
-6
-keyswitches
-USB_microB
-USB microB hirose ZX62R-B-5P
-USB micorB hirose
+2
+keyswitches-daprice
+Kailh_socket_MX_platemount
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
 0
-11
-6
-keyswitches
-USB_miniB
-http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
-USB miniB hirose
+2
+2
+keyswitches-daprice
+Kailh_socket_MX_reversible
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
 0
-9
-9
-keyswitches
-USB_miniB_hirose_5S8
-USB miniB hirose UX60SC-MB-5S8
-USB miniB hirose through hole UX60SC-MB-5S8
+4
+2
+keyswitches-daprice
+Kailh_socket_MX_reversible_platemount
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
 0
-9
-6
-keyswitches
-USB_miniB_hirose_5ST
-USB miniB hirose UX60SC_MB_5ST
-USB miniB hirose new
+4
+2
+keyswitches-daprice
+Kailh_socket_PG1350
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+2
+2
+keyswitches-daprice
+Kailh_socket_PG1350_optional
+Kailh "Choc" PG1350 keyswitch with optional socket mount
+kailh,choc
+0
+4
+2
+keyswitches-daprice
+Kailh_socket_PG1350_optional_reversible
+Kailh "Choc" PG1350 keyswitch with optional socket mount, reversible
+kailh,choc
 0
 7
-6
-keyswitches
-USB_miniB_hirose_5ST_hand
-USB miniB hirose UX60SC_MB_5ST
-USB miniB hirose new
+2
+keyswitches-daprice
+Kailh_socket_PG1350_reversible
+Kailh "Choc" PG1350 keyswitch reversible socket mount
+kailh,choc
 0
-7
-6
-keyswitches
-WT12_bluegiga
-
-BlueGiga, WT12, Bluetooth
-0
-31
-31
-keyswitches
-XTAL_HC_49_TH
-
-
+4
+2
+keyswitches-daprice
+SW_MX
+MX-style keyswitch
+MX,cherry,gateron,kailh
 0
 2
 2
-keyswitches
-tmk2016
-
-
+keyswitches-daprice
+SW_MX_reversible
+MX-style keyswitch, reversible
+MX,cherry,gateron,kailh
 0
+4
+2
+keyswitches-daprice
+SW_MX_reversible_minimal
+MX-style keyswitch, reversible, without pcb-mount holes
+MX,cherry,gateron,kailh
 0
+4
+2
+keyswitches-daprice
+SW_PG1350
+Kailh "Choc" PG1350 keyswitch
+kailh,choc
 0
-keyswitches
-tmk_logo
-
-
+2
+2
+keyswitches-daprice
+SW_PG1350_reversible
+Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
+kailh,choc
+0
+3
+2
+keyswitches-daprice
+SW_PG1350_reversible_rotatable
+Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB and/or rotated 90 degrees (see README)
+kailh,choc
+0
+6
+2
+keyswitches-daprice
+Stabilizer_MX_2u
+MX-style stabilizer mount
+MX,cherry,gateron,kailh,pg1511,stabilizer,stab
 0
 0
 0
@@ -83656,6 +83166,20 @@ Through hole pin header THT 2x03 2.54mm double row
 0
 6
 6
+personal
+axon_axonangular
+
+
+0
+0
+0
+personal
+axon_axonangular_unfilled
+
+
+0
+0
+0
 personal
 axon_logo
 

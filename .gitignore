@@ -33,4 +33,5 @@ _autosave-*
 *.json
 *.png
 *bak
+*/export*
 
