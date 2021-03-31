@@ -26,12 +26,7 @@ _autosave-*
 
 # Project-specific files
 *.docx
-*.step
-*.svg
-*.dxf
-*.dwg
-*.json
-*.png
+design-ref/
 *bak
 */export*
 
