@@ -17,14 +17,12 @@ Axon runs on an Atmega328p using VUSB and QMK.
 
 ### Component Libraries
 
-libraries can be found in `lib/`
-
 **Symbols:**
 - [Keyboard symbols by Hasu](https://github.com/tmk/kicad_lib_tmk)
 
 **Footprints:**
 - [Keyswitches by Daprice](https://github.com/daprice/keyswitches.pretty)
-- My own footprints for silkscreen art
+- My own footprints for silkscreen art. Can be found in `lib/`
 
 
 ## License
