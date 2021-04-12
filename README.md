@@ -1,7 +1,7 @@
 # Axon
 Axon is a 40% custom through-hole mechanical keyboard, inspired by other keyboards such as [gingham](https://github.com/yiancar/gingham_pcb) and [plaid](https://github.com/hsgw/plaid).
 
-Notable features include an HHKB-style layout with missing lower corners, and a split spacebar. I never use my right thumb to hit spacebar, so the split allows me to use my right thumb to access additional keyboard layers.
+Notable features include an [HHKB-style](https://happyhackingkb.com/) layout with missing lower corners, and a split spacebar. I never use my right thumb to hit spacebar, so the split allows me to use my right thumb to access additional keyboard layers.
 
 Axon runs on an Atmega328p using VUSB and QMK.
 
