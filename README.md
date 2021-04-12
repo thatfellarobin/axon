@@ -8,6 +8,7 @@ Axon runs on an Atmega328p using VUSB and QMK.
 ### Images
 
 **Glamour Shot:**
+
 ![PCB](img/pcb-1.jpg)
 
 **Layout:**
