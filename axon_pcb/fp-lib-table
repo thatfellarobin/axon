@@ -1,4 +1,4 @@
 (fp_lib_table
   (lib (name personal)(type KiCad)(uri "C:/Users/Robin/OneDrive/Side Projects - Games - Fitness/Keyboard/axon/lib/robin_personal.pretty")(options "")(descr ""))
-  (lib (name keyswitches-daprice)(type KiCad)(uri "C:/Users/Robin/OneDrive/Side Projects - Games - Fitness/Keyboard/axon/lib/keyswitches.pretty")(options "")(descr ""))
+  (lib (name keyswitches-daprice)(type KiCad)(uri "C:/Users/Robin/OneDrive/Side Projects - Games - Fitness/Keyboard/kicad_lib/keyswitches.pretty")(options "")(descr ""))
 )
