@@ -29,4 +29,5 @@ _autosave-*
 design-ref/
 *bak
 */export*
-
+*.svg
+firmware/
