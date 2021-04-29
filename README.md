@@ -1,6 +1,6 @@
 # Axon
 
-![Built](img/axon_built.jpg)
+![Built Axon](img/axon_built.jpg)
 *Axon version 1.0 built with Durock T1 and GMK Bento*
 
 Axon is a 40% custom mechanical keyboard with through-hole components, inspired by other keyboards such as [gingham](https://github.com/yiancar/gingham_pcb) and [plaid](https://github.com/hsgw/plaid). Axon runs on an ATmega328P using VUSB and QMK.
@@ -27,8 +27,16 @@ Notable features include an [HHKB-style](https://happyhackingkb.com/) layout wit
 - My own footprints for silkscreen art. Can be found in `lib/`
 
 ### Versions
-**1.0:** Initial release, production version for personal use.
-**1.1:** Fix issues with stabilizer interference, optimize decoupling capacitor placement, polyfuse now has room to lay horizontally if desired. Back side silkscreen accurately reflects default layout.
+**1.0:**
+- Initial release, production version for personal use.
+
+**1.1:**
+- Spacebar widths can be swapped (i.e. 2.25u-2.75u instead of 2.75u-2.25u)
+- Fix issues with stabilizer interference.
+- Optimize decoupling capacitor placement.
+- Polyfuse now has room to lay horizontally if desired.
+- Back side silkscreen accurately reflects default layout.
+- Update screw placements to ensure acrylic cover symmetry along both x and y axis
 
 ## License
  
