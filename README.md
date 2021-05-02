@@ -32,11 +32,13 @@ Notable features include an [HHKB-style](https://happyhackingkb.com/) layout wit
 
 **1.1:**
 - Spacebar widths can be swapped (i.e. 2.25u-2.75u instead of 2.75u-2.25u)
-- Fix issues with stabilizer interference.
+- Update screw placements to ensure acrylic cover symmetry along both x and y axis
+- Fixed issues with stabilizer interference.
 - Optimize decoupling capacitor placement.
 - Polyfuse now has room to lay horizontally if desired.
 - Back side silkscreen accurately reflects default layout.
-- Update screw placements to ensure acrylic cover symmetry along both x and y axis
+- Numerous minor layout and routing changes.
+- Added version number to rear silkscreen
 
 ## License
  
