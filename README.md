@@ -9,6 +9,10 @@ Notable features include an [HHKB-style](https://happyhackingkb.com/) layout wit
 
 ### Images
 
+**Glamour Shot:**
+
+![PCB](img/pcb-1.jpg)
+
 **Layout:**
 
 ![Layout](img/axon_layer_base.png)
