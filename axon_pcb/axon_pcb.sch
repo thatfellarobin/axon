@@ -1592,7 +1592,7 @@ U 1 1 6073B3C5
 P 1100 5850
 F 0 "J1" H 1100 7150 50  0000 C CNN
 F 1 "USB_C_Receptacle" H 1100 7050 50  0000 C CNN
-F 2 "Connector_USB:USB_C_Receptacle_GCT_USB4085" H 1250 5850 50  0001 C CNN
+F 2 "personal:USB_C_Receptacle_GCT_USB4085_personalized" H 1250 5850 50  0001 C CNN
 F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 1250 5850 50  0001 C CNN
 	1    1100 5850
 	1    0    0    -1  
@@ -1816,19 +1816,19 @@ Connection ~ 5100 3700
 $Comp
 L keyboard-parts:KEYSW K44
 U 1 1 609D318E
-P 8800 3700
-F 0 "K44" H 8800 3933 60  0000 C CNN
-F 1 "KEYSW" H 8800 3600 60  0001 C CNN
-F 2 "personal:SW_MX_Minimal_InsideSilkRef" H 8800 3700 60  0001 C CNN
-F 3 "" H 8800 3700 60  0000 C CNN
-	1    8800 3700
+P 8800 3950
+F 0 "K44" H 8800 4183 60  0000 C CNN
+F 1 "KEYSW" H 8800 3850 60  0001 C CNN
+F 2 "personal:SW_MX_Minimal_InsideSilkRef" H 8800 3950 60  0001 C CNN
+F 3 "" H 8800 3950 60  0000 C CNN
+	1    8800 3950
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9100 3450 9100 3700
+	9100 3450 9100 3950
 Connection ~ 9100 3450
 Wire Wire Line
-	8500 3450 8500 3700
+	8500 3450 8500 3950
 Wire Wire Line
 	9900 1750 9900 4250
 Wire Wire Line
@@ -1841,9 +1841,7 @@ Wire Wire Line
 	7700 4250 8500 4250
 Wire Wire Line
 	7700 3450 7700 3950
-Wire Wire Line
-	8500 3700 8500 3950
-Connection ~ 8500 3700
+Connection ~ 8500 3950
 $Comp
 L keyboard-parts:KEYSW K45
 U 1 1 60950358
@@ -1889,4 +1887,16 @@ Connection ~ 2900 3950
 Wire Wire Line
 	3500 3450 3500 3950
 Connection ~ 3500 3450
+Text Notes 6750 3950 0    50   ~ 0
+6.25u spacebar
+Text Notes 6750 3700 0    50   ~ 0
+2.75u R spacebar
+Text Notes 6750 3450 0    50   ~ 0
+2.25u R spacebar
+Text Notes 5150 3450 0    50   ~ 0
+2.75u L spacebar
+Text Notes 5150 3700 0    50   ~ 0
+2.25u L spacebar
+Text Notes 5150 3950 0    50   ~ 0
+7u spacebar
 $EndSCHEMATC
