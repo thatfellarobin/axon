@@ -25,9 +25,7 @@ _autosave-*
 *.csv
 
 # Project-specific files
-*.docx
 design-ref/
 *bak
 */export*
-*.svg
 firmware/
