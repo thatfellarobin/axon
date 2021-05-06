@@ -410,17 +410,6 @@ F 3 "" H 3200 3450 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard-parts:KEYSW K37
-U 1 1 6058034D
-P 4800 3450
-F 0 "K37" H 4800 3683 60  0000 C CNN
-F 1 "KEYSW" H 4800 3350 60  0001 C CNN
-F 2 "keyswitches-daprice:SW_MX" H 4800 3450 60  0001 C CNN
-F 3 "" H 4800 3450 60  0000 C CNN
-	1    4800 3450
-	1    0    0    -1  
-$EndComp
-$Comp
 L keyboard-parts:KEYSW K38
 U 1 1 60580DD8
 P 6400 3450
@@ -559,8 +548,6 @@ Wire Wire Line
 	10700 1600 10700 1200
 Wire Wire Line
 	10700 1950 10700 2700
-Wire Wire Line
-	9900 3750 9900 1750
 Wire Wire Line
 	9900 1750 10100 1750
 Wire Wire Line
@@ -1503,39 +1490,34 @@ $EndComp
 $Comp
 L Diode:1N4148 D40
 U 1 1 60633498
-P 8500 3600
-F 0 "D40" V 8546 3520 50  0000 R CNN
-F 1 "1N4148" V 8455 3520 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8500 3425 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8500 3600 50  0001 C CNN
-	1    8500 3600
+P 8500 4100
+F 0 "D40" V 8546 4020 50  0000 R CNN
+F 1 "1N4148" V 8455 4020 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8500 3925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8500 4100 50  0001 C CNN
+	1    8500 4100
 	0    -1   -1   0   
 $EndComp
-Connection ~ 8500 3750
-Wire Wire Line
-	8500 3750 9900 3750
 $Comp
 L Diode:1N4148 D39
 U 1 1 60633D78
-P 7700 3600
-F 0 "D39" V 7746 3520 50  0000 R CNN
-F 1 "1N4148" V 7655 3520 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7700 3425 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7700 3600 50  0001 C CNN
-	1    7700 3600
+P 7700 4100
+F 0 "D39" V 7746 4020 50  0000 R CNN
+F 1 "1N4148" V 7655 4020 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7700 3925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7700 4100 50  0001 C CNN
+	1    7700 4100
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	7700 3750 8500 3750
 $Comp
 L Diode:1N4148 D38
 U 1 1 606345E8
-P 6100 3850
-F 0 "D38" V 6146 3770 50  0000 R CNN
-F 1 "1N4148" V 6055 3770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6100 3675 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6100 3850 50  0001 C CNN
-	1    6100 3850
+P 6100 4100
+F 0 "D38" V 6146 4020 50  0000 R CNN
+F 1 "1N4148" V 6055 4020 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6100 3925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6100 4100 50  0001 C CNN
+	1    6100 4100
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1769,12 +1751,12 @@ Wire Wire Line
 $Comp
 L Diode:1N4148 D37
 U 1 1 60634EA0
-P 4500 3850
-F 0 "D37" V 4546 3770 50  0000 R CNN
-F 1 "1N4148" V 4455 3770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4500 3675 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4500 3850 50  0001 C CNN
-	1    4500 3850
+P 4500 4100
+F 0 "D37" V 4546 4020 50  0000 R CNN
+F 1 "1N4148" V 4455 4020 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4500 3925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4500 4100 50  0001 C CNN
+	1    4500 4100
 	0    -1   -1   0   
 $EndComp
 Connection ~ 2900 3750
@@ -1809,24 +1791,78 @@ Wire Wire Line
 	6100 3450 6100 3700
 Wire Wire Line
 	4500 3450 4500 3700
-Connection ~ 4500 3700
 Wire Wire Line
 	5100 3450 5100 3700
 Connection ~ 5100 3450
+$Comp
+L keyboard-parts:KEYSW K37
+U 1 1 6058034D
+P 4800 3450
+F 0 "K37" H 4800 3683 60  0000 C CNN
+F 1 "KEYSW" H 4800 3350 60  0001 C CNN
+F 2 "keyswitches-daprice:SW_MX" H 4800 3450 60  0001 C CNN
+F 3 "" H 4800 3450 60  0000 C CNN
+	1    4800 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard-parts:KEYSW K43
+U 1 1 60968780
+P 4800 3950
+F 0 "K43" H 4800 4183 60  0000 C CNN
+F 1 "KEYSW" H 4800 3850 60  0001 C CNN
+F 2 "keyswitches-daprice:SW_MX" H 4800 3950 60  0001 C CNN
+F 3 "" H 4800 3950 60  0000 C CNN
+	1    4800 3950
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
-	4300 3750 4300 4000
-Wire Wire Line
-	4300 4000 4500 4000
+	6100 3700 6100 3950
 Connection ~ 6100 3700
 Wire Wire Line
-	6900 4000 6900 3750
+	6100 4250 4500 4250
+Connection ~ 6100 4250
 Wire Wire Line
-	6900 3750 7700 3750
+	4500 4250 4300 4250
 Wire Wire Line
-	4500 4000 6100 4000
-Connection ~ 4500 4000
-Connection ~ 6100 4000
+	4300 3750 4300 4250
+Connection ~ 4500 4250
 Wire Wire Line
-	6100 4000 6900 4000
-Connection ~ 7700 3750
+	4500 3700 4500 3950
+Connection ~ 4500 3700
+Connection ~ 4500 3950
+Wire Wire Line
+	5100 3700 5100 3950
+Connection ~ 5100 3700
+$Comp
+L keyboard-parts:KEYSW K44
+U 1 1 609D318E
+P 8800 3700
+F 0 "K44" H 8800 3933 60  0000 C CNN
+F 1 "KEYSW" H 8800 3600 60  0001 C CNN
+F 2 "keyswitches-daprice:SW_MX" H 8800 3700 60  0001 C CNN
+F 3 "" H 8800 3700 60  0000 C CNN
+	1    8800 3700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9100 3450 9100 3700
+Connection ~ 9100 3450
+Wire Wire Line
+	8500 3450 8500 3700
+Wire Wire Line
+	9900 1750 9900 4250
+Wire Wire Line
+	6100 4250 7700 4250
+Connection ~ 8500 4250
+Wire Wire Line
+	8500 4250 9900 4250
+Connection ~ 7700 4250
+Wire Wire Line
+	7700 4250 8500 4250
+Wire Wire Line
+	7700 3450 7700 3950
+Wire Wire Line
+	8500 3700 8500 3950
+Connection ~ 8500 3700
 $EndSCHEMATC
