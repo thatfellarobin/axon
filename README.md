@@ -23,7 +23,7 @@ Notable features include an [HHKB-style](https://happyhackingkb.com/) layout wit
 - [Keyboard symbols by Hasu](https://github.com/tmk/kicad_lib_tmk)
 
 **Footprints:**
-- [Keyswitches by Daprice](https://github.com/daprice/keyswitches.pretty)
+- [Keyswitches by Daprice](https://github.com/daprice/keyswitches.pretty), but modified for my own tastes/uses.
 - My own footprints for silkscreen art. Can be found in `lib/`
 
 ### Versions
