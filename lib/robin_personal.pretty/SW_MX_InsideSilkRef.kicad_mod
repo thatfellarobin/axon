@@ -1,4 +1,4 @@
-(module SW_MX_InsideSilkRef (layer F.Cu) (tedit 60946714)
+(module SW_MX_InsideSilkRef (layer F.Cu) (tedit 60948B43)
   (descr "MX-style keyswitch")
   (tags MX,cherry,gateron,kailh)
   (fp_text reference REF** (at 0 4.7625) (layer F.SilkS)
