@@ -44,5 +44,7 @@ Notable features include an [HHKB-style](https://happyhackingkb.com/) layout wit
 
 ## License
  
-Axon version 1.1 and higher is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/)
+Axon version 1.1 and higher is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
 If you have built upon this project and have significantly altered the design, the non-commercial clause can be waived.
+
