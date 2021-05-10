@@ -23,7 +23,7 @@ Notable features include an [HHKB-style](https://happyhackingkb.com/) layout wit
 - [Keyboard symbols by Hasu](https://github.com/tmk/kicad_lib_tmk)
 
 **Footprints:**
-- [Keyswitches by Daprice](https://github.com/daprice/keyswitches.pretty)
+- [Keyswitches by Daprice](https://github.com/daprice/keyswitches.pretty), but modified for my own tastes/uses.
 - My own footprints for silkscreen art. Can be found in `lib/`
 
 ### Versions
@@ -31,8 +31,9 @@ Notable features include an [HHKB-style](https://happyhackingkb.com/) layout wit
 - Initial release, production version for personal use.
 
 **1.1:**
-- Spacebar widths can be swapped (i.e. 2.25u-2.75u instead of 2.75u-2.25u)
-- Update screw placements to ensure acrylic cover symmetry along both x and y axis
+- Spacebar widths can be swapped (i.e. 2.25u-2.75u instead of 2.75u-2.25u).
+- Added support for 7u and 6.25u spacebars.
+- Update screw placements to ensure acrylic cover symmetry along both x and y axis.
 - Fixed issues with stabilizer interference.
 - Optimize decoupling capacitor placement.
 - Polyfuse now has room to lay horizontally if desired.
@@ -46,3 +47,4 @@ Notable features include an [HHKB-style](https://happyhackingkb.com/) layout wit
 Axon version 1.1 and higher is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 If you have built upon this project and have significantly altered the design, the non-commercial clause can be waived.
+
