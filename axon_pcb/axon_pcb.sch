@@ -1899,4 +1899,8 @@ Text Notes 5150 3700 0    50   ~ 0
 2.25u L spacebar
 Text Notes 5150 3950 0    50   ~ 0
 7u spacebar
+Text Label 1800 5400 0    50   ~ 0
+D-
+Text Label 1800 5600 0    50   ~ 0
+D+
 $EndSCHEMATC
