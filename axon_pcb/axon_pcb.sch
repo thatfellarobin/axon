@@ -694,18 +694,16 @@ NoConn ~ 1700 6550
 NoConn ~ 1700 6750
 NoConn ~ 1700 6850
 Wire Wire Line
-	1700 4850 1800 4850
-Wire Wire Line
-	2250 4850 2250 4800
+	2200 4850 2200 4800
 $Comp
 L power:+5V #PWR0102
 U 1 1 6057E8DA
-P 2250 4800
-F 0 "#PWR0102" H 2250 4650 50  0001 C CNN
-F 1 "+5V" H 2265 4973 50  0000 C CNN
-F 2 "" H 2250 4800 50  0001 C CNN
-F 3 "" H 2250 4800 50  0001 C CNN
-	1    2250 4800
+P 2200 4800
+F 0 "#PWR0102" H 2200 4650 50  0001 C CNN
+F 1 "+5V" H 2215 4973 50  0000 C CNN
+F 2 "" H 2200 4800 50  0001 C CNN
+F 3 "" H 2200 4800 50  0001 C CNN
+	1    2200 4800
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -949,17 +947,6 @@ Wire Wire Line
 	8450 5350 8550 5350
 Wire Wire Line
 	8550 5350 8550 5250
-$Comp
-L power:+5V #PWR0109
-U 1 1 607309DA
-P 8550 5250
-F 0 "#PWR0109" H 8550 5100 50  0001 C CNN
-F 1 "+5V" H 8565 5423 50  0000 C CNN
-F 2 "" H 8550 5250 50  0001 C CNN
-F 3 "" H 8550 5250 50  0001 C CNN
-	1    8550 5250
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	1700 5350 1700 5400
 Wire Wire Line
@@ -1645,7 +1632,7 @@ F 3 "~" H 1900 4850 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	2000 4850 2250 4850
+	2000 4850 2200 4850
 Wire Wire Line
 	2150 5950 2250 5950
 Wire Wire Line
@@ -1718,11 +1705,7 @@ Wire Wire Line
 Connection ~ 2350 5400
 Wire Wire Line
 	2350 5400 2450 5400
-Wire Wire Line
-	2250 4850 2350 4850
-Wire Wire Line
-	2350 4850 2350 5050
-Connection ~ 2250 4850
+Connection ~ 2200 4850
 Wire Wire Line
 	6250 6250 6200 6250
 Wire Wire Line
@@ -1903,4 +1886,29 @@ Text Label 1800 5400 0    50   ~ 0
 D-
 Text Label 1800 5600 0    50   ~ 0
 D+
+Wire Wire Line
+	1700 4850 1800 4850
+Wire Wire Line
+	2350 5050 2350 4850
+Wire Wire Line
+	2350 4850 2200 4850
+$Comp
+L power:+5V #PWR0109
+U 1 1 61A2F4BB
+P 8550 5250
+F 0 "#PWR0109" H 8550 5100 50  0001 C CNN
+F 1 "+5V" H 8565 5423 50  0000 C CNN
+F 2 "" H 8550 5250 50  0001 C CNN
+F 3 "" H 8550 5250 50  0001 C CNN
+	1    8550 5250
+	1    0    0    -1  
+$EndComp
+Text Notes 3550 3950 0    50   ~ 0
+1u
+Text Notes 3550 3450 0    50   ~ 0
+1.25u
+Text Notes 9150 3950 0    50   ~ 0
+1.25u
+Text Notes 9150 3450 0    50   ~ 0
+1u
 $EndSCHEMATC
