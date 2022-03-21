@@ -39,8 +39,9 @@ Notable features include an [HHKB-style](https://happyhackingkb.com/) layout wit
 - Optimize decoupling capacitor placement.
 - Polyfuse now has room to lay horizontally if desired.
 - Back side silkscreen accurately reflects default layout.
+- Connected shield to ground.
 - Numerous minor layout and routing changes.
-- Added version number to rear silkscreen
+- Added version number to rear silkscreen.
 - Updated license.
 
 ## License
